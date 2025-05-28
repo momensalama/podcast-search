@@ -2,6 +2,14 @@
 
 A modern podcast search application built with Next.js, TypeScript, and PostgreSQL.
 
+## 🌐 Live Demo
+
+[Live Demo](https://podcast-search-65si.vercel.app/)
+
+## 🚀 Deployment
+
+This application is deployed on Vercel with [Neon PostgreSQL database](https://neon.tech).
+
 ## Features
 
 - Real-time podcast search (iTunes Search API)

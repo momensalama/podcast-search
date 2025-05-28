@@ -31,9 +31,9 @@ We developed a podcast search application using the following modern technologie
 
 - **Challenge:** Rate limiting in iTunes Search API
 - **Solution:**
-  - Client-side caching implementation
-  - Database storage for results
-  - Retry mechanism implementation
+  - Implement caching to avoid repeated iTunes API calls for the same search terms
+  - Store search results in database
+  - Add retry logic for failed requests
 
 ### 2. Real-time Search Performance
 
